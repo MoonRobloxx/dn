@@ -1,0 +1,25 @@
+{
+  "name": "htmlcraft",
+  "version": "1.0.0",
+  "description": "Браузерная строительная игра на HTML5 с оригинальными текстурами",
+  "main": "index.html",
+  "scripts": {
+    "dev": "http-server",
+    "build": "echo 'HTMLCraft is a static site'"
+  },
+  "keywords": [
+    "game",
+    "html5",
+    "canvas",
+    "sandbox",
+    "building",
+    "блоки",
+    "строительство"
+  ],
+  "author": "MoonRobloxx",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MoonRobloxx/dn.git"
+  }
+}
